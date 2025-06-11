@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of the SMVTAN model, proposed for traffic flow prediction by jointly modeling spatiotemporal dependencies and multi-view temporal trends.
 
-**Authors:** Linlong Chen¹, Linbiao Chen³, Hongyan Wang², Jian Zhao¹
+**Authors:** Linlong Chen, Linbiao Chen, Hongyan Wang, Jian Zhao
 
 ---
 
